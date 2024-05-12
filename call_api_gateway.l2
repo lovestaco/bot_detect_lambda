@@ -1,0 +1,9 @@
+POST
+https://sss.execute-api.ap-south-1.amazonaws.com/prod/bot_detector
+
+{
+  "email": "athreyac4@gmail.com",
+  "name": "Athreya"
+}
+
+
